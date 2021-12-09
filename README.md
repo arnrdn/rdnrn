@@ -15,3 +15,5 @@
 - <a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdnrn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

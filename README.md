@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Nana! 👋
 
-hi, i'm nana.png
+![image](main.png)
 
 Here are some ideas to get you started:
 

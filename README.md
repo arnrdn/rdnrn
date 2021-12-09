@@ -14,7 +14,4 @@
 - <a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>
 - <a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png"></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy" /></a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

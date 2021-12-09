@@ -1,6 +1,6 @@
 ### Hello, I'm Nana! 👋
 
-![image](main.png)
+![image](main-pic.png)
 
 Here are some ideas to get you started:
 

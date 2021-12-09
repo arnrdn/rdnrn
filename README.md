@@ -3,14 +3,14 @@
 
 <img src="/img/hi.gif" width="50" height="40">
 <h3>About me</h3>
-- 📚 Currently studying in: <img src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
+- 📚 Currently studying in:&#x2011;<img src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
 - 📖 Currently learning: <img src="https://img.icons8.com/nolan/40/javascript.png"/><br/>
 - 🤝 Pronouns: she/her<br/>
 - 🐱 Fun fact: I have experience in web design and I love cats!<br/>
 
 
 <a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>
-<a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png.png"></a>
+<a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png"></a>
 
 
 

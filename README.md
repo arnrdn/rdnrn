@@ -1,6 +1,6 @@
 ### Hello, I'm Nana! 👋
 
-<img align="center" src="main-pic.png">
+<img align="center" src="main-picture.png">
 
 Here are some ideas to get you started:
 

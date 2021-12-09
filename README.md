@@ -4,9 +4,8 @@
 <img src="/img/hi.gif" width="50" height="40">
 <h3>About me</h3>
 
-- 📚 Currently studying in:
-  -<img width="70" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
-- 📖 Currently learning: ![](<img src="https://img.icons8.com/nolan/64/javascript.png"/>)<br/>
+- 📚 Currently studying in: <img width="70" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
+- 📖 Currently learning: <img src="https://img.icons8.com/nolan/64/javascript.png"/><br/>
 - 🤝 Pronouns: she/her<br/>
 - 🐱 Fun fact: I have experience in web design and I love cats!<br/>
 

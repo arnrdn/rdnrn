@@ -2,7 +2,7 @@
 
 <img align="center" src="main-picture.png">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rdnrn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:

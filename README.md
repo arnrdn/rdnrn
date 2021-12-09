@@ -3,7 +3,7 @@
 <img align="center" src="/img/main-picture.png">
 
 <h3>About me</h3>
-- 📚 Currently studying in: ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 📚 Currently studying in: <img src="https://img.shields.io/badge/Microverse-blueviolet">
 - 📖 Currently learning: <img src="https://img.icons8.com/nolan/40/javascript.png"/>
 - 🤝 Pronouns: she/her
 - 🐱 Fun fact: I have experience in web design and I love cats!

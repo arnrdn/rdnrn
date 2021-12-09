@@ -1,4 +1,4 @@
-<h2> Hello, I'm Nana!</h2><img src="/img/hi.gif" width="50" height="40">
+<h2> Hello, I'm Nana!<img src="/img/hi.gif" width="50" height="40"></h2>
 
 <img align="center" src="/img/main-picture.png">
 

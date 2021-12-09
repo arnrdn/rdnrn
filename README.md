@@ -1,5 +1,5 @@
 <h2> Hello, I'm Nana!</h2>
-<img align="center" src="/img/main-picture1.png">
+<img align="center" src="/img/main-picture1.jpg">
 
 <img src="/img/hi.gif" width="50" height="40">
 <h3>About me</h3>

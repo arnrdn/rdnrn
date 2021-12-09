@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="ri-linkedin-fill"></i>
+<img align="center" src="linkedin-fill.png">
 
 
 

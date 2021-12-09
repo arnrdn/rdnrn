@@ -1,12 +1,12 @@
-<h2> Hello, I'm Nana!<img src="/img/hi.gif" width="70" height="60"></h2>
-
+<h2> Hello, I'm Nana!</h2>
 <img align="center" src="/img/main-picture.png">
 
+<img src="/img/hi.gif" width="50" height="40">
 <h3>About me</h3>
-- 📚 Currently studying in: <img src="https://img.shields.io/badge/Microverse-blueviolet">
-- 📖 Currently learning: <img src="https://img.icons8.com/nolan/40/javascript.png"/>
-- 🤝 Pronouns: she/her
-- 🐱 Fun fact: I have experience in web design and I love cats!
+- 📚 Currently studying in: <img src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
+- 📖 Currently learning: <img src="https://img.icons8.com/nolan/40/javascript.png"/><br/>
+- 🤝 Pronouns: she/her<br/>
+- 🐱 Fun fact: I have experience in web design and I love cats!<br/>
 
 
 <a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>

@@ -1,10 +1,19 @@
-<h2> Hello, I'm Nana! 👋</h2>
+<h2> Hello, I'm Nana!</h2><img src="/img/hi.gif" width="50" height="40">
 
-<img align="center" src="main-picture.png">
+<img align="center" src="/img/main-picture.png">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<h3>About me</h3>
+- 📚 Currently studying in: ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 📖 Currently learning: <img src="https://img.icons8.com/nolan/40/javascript.png"/>
+- 🤝 Pronouns: she/her
+- 🐱 Fun fact: I have experience in web design and I love cats!
 
-<img align="center" src="linkedin-fill.png">
+
+<a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>
+<a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png.png"></a>
+
+
+
 
 
 
@@ -20,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

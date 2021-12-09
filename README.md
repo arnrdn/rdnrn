@@ -9,25 +9,10 @@
 - 🤝 Pronouns: she/her<br/>
 - 🐱 Fun fact: I have experience in web design and I love cats!<br/>
 
-<a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>
-<a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png"></a>
+<h3>Find me here</h3>
 
+- <a href="https://www.linkedin.com/in/arina-rodina-144612219/?locale=en_US"><img align="center" src="/img/linkedin-fill.png"></a>
+- <a href="https://twitter.com/rdnrn_nana"><img align="center" src="/img/twitter-fill.png"></a>
 
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdnrn&hide=issues,contribs&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

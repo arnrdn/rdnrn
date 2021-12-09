@@ -1,6 +1,9 @@
-### Hello, I'm Nana! 👋
+<h2> Hello, I'm Nana! 👋</h2>
 
 <img align="center" src="main-picture.png">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirdnrnanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 

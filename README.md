@@ -7,7 +7,7 @@
 - 📚 Currently studying in: <img width="70" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
 - 📖 Currently learning: <img src="https://img.shields.io/badge/JavaScript-5519B6"/><br/>
 - 🤝 Pronouns: she/her<br/>
-- 🐱 Fun fact: I have experience in web design and I love cats!<br/>
+- 🐱 Fun fact: I have experience in web design, and I love cats!<br/>
 
 <h3>Find me here</h3>
 

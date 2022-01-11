@@ -5,7 +5,7 @@
 <h3>About me</h3>
 
 - 📚 Currently studying in: <img width="70" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
-- Already know: <img src="https://img.shields.io/badge/JavaScript-5519B6"/><br/>
+- 📕 Already know: <img src="https://img.shields.io/badge/JavaScript-5519B6"/><br/>
 - 📖 Currently learning: <img src="https://img.shields.io/badge/React.js-3b89a7"/><br/>
 - 🤝 Pronouns: she/her<br/>
 - 🐱 Fun fact: I have experience in web design, and I love cats!<br/>

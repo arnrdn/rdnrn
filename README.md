@@ -5,6 +5,7 @@
 <h3>About me</h3>
 
 - 📚 Currently studying in: <img width="70" src="https://img.shields.io/badge/Microverse-blueviolet"><br/>
+- 🎤 Languages: Russian, English
 - 📕 Already know: <img src="https://img.shields.io/badge/JavaScript-5519B6"/> <img src="https://img.shields.io/badge/React&Redux-3b89a7"/> <img src="https://img.shields.io/badge/SASS-cf649a"/><br/>
 - 📖 Currently learning: <img src="https://img.shields.io/badge/Ruby-e0115f"/><br/>
 - 🤝 Pronouns: she/her<br/>
